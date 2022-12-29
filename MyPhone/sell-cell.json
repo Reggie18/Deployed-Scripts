@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sell-cell-367113",
+  "private_key_id": "5bc1bb16478bbd006a3163a5bfc40cafceef4ce3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDL8D3UrcYyZiW0\naQDwhh8AUmawLCLdgv6eBk1HHt7ZXwKtUe9C/hWSfg1X30XaFrReWOooi2j2mflR\nZ8GnKgML3mA2aFNtiUgHy/TLoY1Pf78Iq2mc3kwUfUl4tn2O6FpOKhxQUqYbIkSz\nJJwZLTofm8zVW/napxDzRhFpIgvDAtdSwsRMrmgADk76dfuN3L5qWDtKssx2aCmL\nG73POdrDnJayti937X1g5NznMzMeGiie0rr4BpuRPZLJLM9Aldho3VRIggOkIt/a\nbnFy89YV46763+uZ999kII63eMKJ7Wvxdg+uF/EflScYGKbGx9fY9sQggQp2/4xF\nFz5vG5zTAgMBAAECggEAAI1mhXhxBHrtWDc+luguFlCi0ZBVCdeMe/4VYH9vaBRP\nTAvgQ4Svp0VrINVMeaI9G9JO1AxInP5ew/8tcZf2CSaxiQQwUaghB1BgmdqWqOP2\nLv5T22Zou1d5hverkGMFt5d6mycWJxWpLPkI6TKLqUFBRUSqARMZwybp7ih28rDC\nimsdLtXCyQtL/71KO8cTLMLYUC+ZPhekg1/3m5J8Zgkw7PhRAfncxKjYXNbZRBEf\nOIXgfiUsGw5IgEYsy2MPFUZRJbYiEbcuBDlBTPFdVQmy12YhvpxC1p7PfgJ4/4SD\n9P2j2Av3aTfkD/Rn39PnkQQ3ammEm/kSUk6a8zuKCQKBgQDuB4fxSY56D4nwQjE5\n8IPzoizOnScYpPRcNTIcRjN5nKFCNjosvfDUyQB/LmpJs1PpRxEsDheZoyewDjsX\nfFU5ecve0jJrIq4kGfisxgUxpKvJVantO/OQcO9SpEVo6Xua/yLK2rvseEgAkpnf\nsuImscmMzQuA+vqIj0PjdQTzKwKBgQDbVdLV+GOKtIuE4x6TXXFhA0X/vkJAKZht\nZobcnFw8V+OWmPr2C6lgcvN6TQg4JEQHm2ascrWtOq9nVbuIzdaojGr9ts7Uk9ii\nptQzcY/HMm+ZELKKozyhVFRoUrXc4sTISLh3CP8Nwv1r+OvqE365MwcYIcwKlEbu\n+P75IzVI+QKBgG6pt60ZOpFLCiFWVNaQGHi7rEM+0v9lKWp5HNwCU0o15M8IsRE+\nGWqELKP0a1vqcJei/7vQrW4zaW8znotztZesJXlpliEzFW0ZWgDRa3bCDU/kcMUn\nuzwrFUkBsHdvHZVZCs7u1LHC1g7WGY3j97pvq7m3VqLXjITSvohQTkXTAoGBAM3K\nfqFIBo1zzJwIRP3bZK+zVJAZwStWW6/5zHtdMaVkiSMZsg387xSRhiSv9hBG5pWE\nlxciIZfBQiXgaK55Avjtls0qInGNrmsdwGfsGwy5I8AnzH0Ln6125CNlx0DSe/O3\nV2xIQpZ05zXRPfhIBlRZrkRUIY+jg9JgSUsUX8BxAoGBANeHXTeeGPiNj+BMEvnI\nxMpBVC8z2N4TkEbo5SCn8X861cCenAd29ezdaooH7LiMHEELHfSN009s0sglCdto\nl/DXcWdP3iEwp2PW8GVWgshE62NeftPXK7+NR69MYrYXBSiHz5+E9D7U/xRNQQht\nr2zXpBYKSMzT/lLWKMREOs1a\n-----END PRIVATE KEY-----\n",
+  "client_email": "sellscript@sell-cell-367113.iam.gserviceaccount.com",
+  "client_id": "106794831558580430714",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sellscript%40sell-cell-367113.iam.gserviceaccount.com"
+}
