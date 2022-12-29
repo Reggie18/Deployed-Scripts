@@ -34,47 +34,7 @@ def price_scrape():
       writer = csv.writer(file)
       writer.writerow(["PHONE NAME", "SIZE", "NETWORK", "CONDITION", "RECYCLER", "HIGHEST PRICE"])
 
-    urls = ['https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-11',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-11-pro',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-11-pro-max',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-12',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-12-mini',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-12-pro',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-12-pro-max',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-13',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-13-mini',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-13-pro',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-13-pro-max',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-7',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-7-plus',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-8',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-8-plus',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-se',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-se-2020',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-se-2022',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-x',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-xr',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-xs',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-xs-max',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s10',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s10-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s10-lite',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s10-plus',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-6',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-6-plus',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-6s',
-            'https://www.compareandrecycle.co.uk/mobile-phones/apple-iphone-6s-plus',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s20',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s20-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s20-plus',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s20-plus-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s21-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s21-fe-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s21-plus-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s21-ultra-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s22-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s22-ultra-5g',
-            'https://www.compareandrecycle.co.uk/mobile-phones/samsung-galaxy-s22-plus-5g']
+    urls = ["links here"]  #place links here
 
 
     wait=WebDriverWait(driver,10)
