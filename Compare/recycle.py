@@ -25,7 +25,7 @@ def price_scrape():
     creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json",scope)
     client = gspread.authorize(creds)
     sheet_name = 'Sheet1'
-    spreadsheet_key = '1uSs2uq_VLGusQ6x-fCKsNtDPHxnVeyhXLoW63PjozfE'
+    spreadsheet_key = 'Key Here'
     sheet = client.open_by_key(spreadsheet_key)
     
      
@@ -110,7 +110,7 @@ while True:
     creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json",scope)
     client = gspread.authorize(creds)
     sheet_name = 'Sheet1'
-    spreadsheet_key = '1uSs2uq_VLGusQ6x-fCKsNtDPHxnVeyhXLoW63PjozfE'
+    spreadsheet_key = 'Key Here'
     sheet = client.open_by_key(spreadsheet_key)
     
     sheet.values_update('Sheet1!I4', params={'valueInputOption': 'USER_ENTERED'}, body={'values':[["Update in Progress ........."]]} )
