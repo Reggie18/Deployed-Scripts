@@ -18,7 +18,7 @@ def price_scrape():
     scope = ['https://www.googleapis.com/auth/drive', 'https://www.googleapis.com/auth/drive.file', 'https://www.googleapis.com/auth/spreadsheets']
     creds = ServiceAccountCredentials.from_json_keyfile_name("sell-my-phone-credentials.json",scope)
     client = gspread.authorize(creds)
-    spreadsheet_key = '18XqPw7fPw2IN4RZXmTT1h92HnCcZstKgK_erTpzklzM'
+    spreadsheet_key = 'Key Here'
     sheet = client.open("Sell My Mobile").sheet1
     
     
@@ -112,7 +112,7 @@ while True:
     scope = ['https://www.googleapis.com/auth/drive', 'https://www.googleapis.com/auth/drive.file', 'https://www.googleapis.com/auth/spreadsheets']
     creds = ServiceAccountCredentials.from_json_keyfile_name("sell-my-phone-credentials.json",scope)
     client = gspread.authorize(creds)
-    spreadsheet_key = '18XqPw7fPw2IN4RZXmTT1h92HnCcZstKgK_erTpzklzM'
+    spreadsheet_key = 'Key Here'
     sheet = client.open("Sell My Mobile").sheet1
     sheet.update_cell(3,9, "Update in Progress .......")
     
